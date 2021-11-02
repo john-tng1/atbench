@@ -12,6 +12,7 @@ media
 atbench_environment.yml
 
 # misc
+.DS_Store
 
 # Environments 
 .env 
